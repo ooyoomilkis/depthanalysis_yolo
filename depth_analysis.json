@@ -1,0 +1,214 @@
+{
+  "global": {
+    "mean": 0.4497891068458557,
+    "median": 0.47058823704719543,
+    "std": 0.3141108453273773,
+    "foreground_pct": 39.47795984306485,
+    "midground_pct": 20.522963304869606,
+    "background_pct": 39.99907685206555
+  },
+  "objects": [
+    {
+      "id": 7,
+      "label": "book",
+      "median_depth": 0.7647058963775635,
+      "min_depth": 0.46666666865348816,
+      "max_depth": 0.886274516582489,
+      "depth_spread": 0.32941174507141113,
+      "surface": "flat",
+      "area_pct": 10.114008769905377,
+      "zone": "foreground",
+      "closeness_rank": 1
+    },
+    {
+      "id": 6,
+      "label": "book",
+      "median_depth": 0.7176470756530762,
+      "min_depth": 0.47843137383461,
+      "max_depth": 0.8196078538894653,
+      "depth_spread": 0.22745096683502197,
+      "surface": "flat",
+      "area_pct": 4.455573505654281,
+      "zone": "foreground",
+      "closeness_rank": 2
+    },
+    {
+      "id": 4,
+      "label": "laptop",
+      "median_depth": 0.7019608020782471,
+      "min_depth": 0.04313725605607033,
+      "max_depth": 0.7882353067398071,
+      "depth_spread": 0.6352941319346428,
+      "surface": "flat",
+      "area_pct": 22.740826217401338,
+      "zone": "foreground",
+      "closeness_rank": 3
+    },
+    {
+      "id": 2,
+      "label": "chair",
+      "median_depth": 0.6980392336845398,
+      "min_depth": 0.08235294371843338,
+      "max_depth": 0.7882353067398071,
+      "depth_spread": 0.6156862899661064,
+      "surface": "flat",
+      "area_pct": 15.15439649203785,
+      "zone": "foreground",
+      "closeness_rank": 4
+    },
+    {
+      "id": 1,
+      "label": "cup",
+      "median_depth": 0.6117647290229797,
+      "min_depth": 0.2980392277240753,
+      "max_depth": 0.6823529601097107,
+      "depth_spread": 0.2549019753932953,
+      "surface": "flat",
+      "area_pct": 3.269789983844911,
+      "zone": "midground",
+      "closeness_rank": 5
+    },
+    {
+      "id": 5,
+      "label": "vase",
+      "median_depth": 0.47843137383461,
+      "min_depth": 0.01568627543747425,
+      "max_depth": 0.5058823823928833,
+      "depth_spread": 0.054901957511901855,
+      "surface": "flat",
+      "area_pct": 3.0810062312485575,
+      "zone": "midground",
+      "closeness_rank": 6
+    },
+    {
+      "id": 9,
+      "label": "cup",
+      "median_depth": 0.47843137383461,
+      "min_depth": 0.01568627543747425,
+      "max_depth": 0.5058823823928833,
+      "depth_spread": 0.054901957511901855,
+      "surface": "flat",
+      "area_pct": 3.0810062312485575,
+      "zone": "midground",
+      "closeness_rank": 7
+    },
+    {
+      "id": 3,
+      "label": "potted plant",
+      "median_depth": 0.10196078568696976,
+      "min_depth": 0.0,
+      "max_depth": 0.5411764979362488,
+      "depth_spread": 0.4274509809911251,
+      "surface": "sloped/curved",
+      "area_pct": 24.301869374567275,
+      "zone": "background",
+      "closeness_rank": 8
+    },
+    {
+      "id": 8,
+      "label": "potted plant",
+      "median_depth": 0.062745101749897,
+      "min_depth": 0.04313725605607033,
+      "max_depth": 0.24705882370471954,
+      "depth_spread": 0.05882352963089943,
+      "surface": "flat",
+      "area_pct": 2.82483267943688,
+      "zone": "background",
+      "closeness_rank": 9
+    },
+    {
+      "id": 0,
+      "label": "potted plant",
+      "median_depth": 0.05882352963089943,
+      "min_depth": 0.05098039284348488,
+      "max_depth": 0.07058823853731155,
+      "depth_spread": 0.019607845693826675,
+      "surface": "flat",
+      "area_pct": 3.618739903069467,
+      "zone": "background",
+      "closeness_rank": 10
+    }
+  ],
+  "grid": [
+    {
+      "row": 0,
+      "col": 0,
+      "mean_depth": 0.3174576759338379
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "mean_depth": 0.08377325534820557
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "mean_depth": 0.124535471200943
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "mean_depth": 0.12836922705173492
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "mean_depth": 0.7034009695053101
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "mean_depth": 0.10553821921348572
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "mean_depth": 0.08139210939407349
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "mean_depth": 0.2670312523841858
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "mean_depth": 0.7065753936767578
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "mean_depth": 0.5337966084480286
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "mean_depth": 0.44125282764434814
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "mean_depth": 0.439240425825119
+    },
+    {
+      "row": 3,
+      "col": 0,
+      "mean_depth": 0.8305041193962097
+    },
+    {
+      "row": 3,
+      "col": 1,
+      "mean_depth": 0.8272210359573364
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "mean_depth": 0.8590607047080994
+    },
+    {
+      "row": 3,
+      "col": 3,
+      "mean_depth": 0.7430070042610168
+    }
+  ]
+}
